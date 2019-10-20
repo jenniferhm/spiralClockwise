@@ -6,7 +6,7 @@ Spiral traversal of a matrix in a clockwise direction.
 A solution to the spiral traversal of a matrix in a clockwise direction.
 
 
-### Which part of the code am I proud of?
+### Which part of the code is pertinent?
 The while loop.
 
 ```
