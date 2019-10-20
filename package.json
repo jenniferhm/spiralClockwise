@@ -1,0 +1,15 @@
+{
+  "name": "spiral_clockwise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spiral_clockwise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.0.0"
+  }
+}
